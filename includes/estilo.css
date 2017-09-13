@@ -1,0 +1,105 @@
+.paragrafo{
+	margin-left: 2%;
+}
+
+h1{
+	font-size: 45px;
+	font-weight: 600;
+	letter-spacing: -0.04em;
+	text-shadow: white 1px -1px, white -1px 1px, white 1px 1px, white -1px -1px;
+	color: black;
+	word-wrap: break-word;
+}
+
+h2{
+	font-size: 55px;
+	font-weight: 600;
+	margin-left: 42%;
+	margin-top: -1%;
+	letter-spacing: -0.04em;
+	text-shadow: white 1px -1px, white -1px 1px, white 1px 1px, white -1px -1px;
+	color: black;
+	word-wrap: break-word;
+}
+
+h3{
+	font-size: 30px;
+	font-weight: 600;
+	letter-spacing: -0.04em;
+	text-shadow: white 1px -1px, white -1px 1px, white 1px 1px, white -1px -1px;
+	color: black;
+	word-wrap: break-word;
+}
+
+h6{
+		font-size: 55px;
+		font-weight: 600;
+		margin-left: 39%;
+		margin-top: 0%;
+		letter-spacing: -0.04em;
+		text-shadow: white 1px -1px, white -1px 1px, white 1px 1px, white -1px -1px;
+		color: black;
+		word-wrap: break-word;
+}
+
+p{
+	font-size: 20px;
+	font-weight: 600;
+	letter-spacing: -0.04em;
+	color: black;
+	word-wrap: break-word;
+}
+
+.doces{
+	font-size: 55px;
+	font-weight: 600;
+	margin-left: 34%;
+	margin-top: -1%;
+	letter-spacing: -0.04em;
+	text-shadow: white 1px -1px, white -1px 1px, white 1px 1px, white -1px -1px;
+	color: black;
+	word-wrap: break-word;
+}
+
+.cartao{
+	margin-left: -500%;
+	margin-right: 100%;
+	width: 600%;
+	height: 500%;
+}
+
+.logo{
+	height: 55px;
+	width: 55px;
+	margin-left: 4%;
+}
+
+.icono{
+	margin-left: 36%;
+	margin-top: 7%;
+}
+
+.icone{
+	width: 22%;
+	height: 22%;
+	margin-left: 4%;
+}
+
+.icone2{
+	width: 30%;
+	height: 30%;
+	margin-left: -32%;
+}
+
+.botao{
+	margin-right: 93%;
+}
+
+.botao2{
+	margin-left: -11%;
+}
+
+.aba{
+	width: 250px;
+	height: 250px;
+}

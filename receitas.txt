@@ -1,0 +1,25 @@
+create database livro
+
+default character set utf8
+
+default collate utf8_general_ci;
+
+
+
+create table receitas(
+
+			nome_receita varchar(100),
+
+			ingredientes varchar(3000),
+
+			preparo varchar(5000),
+
+			tempo_preparo varchar(10),
+
+			porcoes varchar(12),
+
+			avaliacao int(3),
+
+			img varchar(12)
+
+)default charset = utf8;
